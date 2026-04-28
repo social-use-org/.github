@@ -94,5 +94,5 @@ It supports AI content generation, multi-platform publishing, multi-account mana
 <p align="center">
   <a href="https://social-use.com">Website</a> ·
   <a href="https://demo.social-use.com">Demo</a> ·
-  <a href="./README.zh.md">中文</a>
+  <a href="./README.md">中文</a>
 </p>
