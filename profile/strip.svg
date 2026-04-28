@@ -1,39 +1,26 @@
-<svg width="1600" height="180" viewBox="0 0 1600 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Social-use narrow banner">
+<svg width="1600" height="176" viewBox="0 0 1600 176" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Social-use narrow banner">
   <defs>
-    <linearGradient id="bg" x1="96" y1="24" x2="1508" y2="156" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#06101B"/>
-      <stop offset="1" stop-color="#0E2A46"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="120" y1="48" x2="1480" y2="138" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#34D399"/>
-      <stop offset="1" stop-color="#60A5FA"/>
-    </linearGradient>
-    <linearGradient id="panel" x1="1060" y1="36" x2="1500" y2="136" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0F172A"/>
-      <stop offset="1" stop-color="#0B1220"/>
+    <linearGradient id="line" x1="84" y1="88" x2="1516" y2="88" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset="0.5" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#F97316"/>
     </linearGradient>
   </defs>
-  <rect width="1600" height="180" rx="28" fill="url(#bg)"/>
-  <circle cx="1400" cy="54" r="88" fill="#60A5FA" fill-opacity="0.12"/>
-  <circle cx="132" cy="132" r="66" fill="#34D399" fill-opacity="0.10"/>
-  <path d="M108 64H468" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
-  <path d="M108 98H376" stroke="#FFFFFF" stroke-opacity="0.14" stroke-width="2" stroke-linecap="round"/>
-  <text x="108" y="58" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="800" fill="#F8FAFC">Social-use</text>
-  <text x="108" y="96" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="500" fill="#CBD5E1">面向中文用户的 AI 社交媒体运营平台</text>
-  <text x="108" y="124" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="500" fill="#94A3B8">内容生成 · 多平台发布 · 多账号矩阵 · 互动运营 · 数据分析</text>
+  <rect x="1" y="1" width="1598" height="174" rx="24" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2"/>
+  <path d="M84 132H1516" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+  <text x="84" y="58" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800" fill="#0F172A">Social-use</text>
+  <text x="84" y="94" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="600" fill="#334155">中文社媒团队的 AI 运营中台</text>
+  <text x="84" y="122" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#64748B">MCN 矩阵号 · 多平台发布 · Agent 自动化 · 指纹设备 · 纯净 IP · VNC 查看</text>
 
-  <rect x="1044" y="34" width="424" height="102" rx="22" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity="0.08"/>
-  <rect x="1078" y="58" width="112" height="24" rx="12" fill="#34D399"/>
-  <text x="1134" y="75" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#07111A">中文优先</text>
+  <rect x="1036" y="38" width="96" height="34" rx="17" fill="#E0F2FE"/>
+  <text x="1084" y="60" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0369A1">内容生产</text>
+  <rect x="1146" y="38" width="96" height="34" rx="17" fill="#DCFCE7"/>
+  <text x="1194" y="60" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#166534">矩阵发布</text>
+  <rect x="1256" y="38" width="104" height="34" rx="17" fill="#FEF3C7"/>
+  <text x="1308" y="60" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#92400E">互动增长</text>
+  <rect x="1374" y="38" width="104" height="34" rx="17" fill="#FCE7F3"/>
+  <text x="1426" y="60" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#9D174D">MCP 工具</text>
 
-  <rect x="1204" y="58" width="98" height="24" rx="12" fill="#12233D" stroke="#60A5FA" stroke-opacity="0.24"/>
-  <text x="1253" y="75" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#E2E8F0">MCP 工具</text>
-
-  <rect x="1314" y="58" width="104" height="24" rx="12" fill="#102A1E" stroke="#34D399" stroke-opacity="0.24"/>
-  <text x="1366" y="75" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#E2E8F0">纯净 IP</text>
-
-  <rect x="1430" y="58" width="74" height="24" rx="12" fill="#271A12" stroke="#F59E0B" stroke-opacity="0.24"/>
-  <text x="1467" y="75" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#E2E8F0">VNC</text>
-
-  <text x="1078" y="110" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#94A3B8">支持指纹设备环境，适合中文市场内容团队与增长团队</text>
+  <rect x="1036" y="92" width="442" height="38" rx="19" fill="#0F172A"/>
+  <text x="1257" y="116" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" fill="#F8FAFC">从内容到发布，再到互动和分析，一条工作流完成</text>
 </svg>

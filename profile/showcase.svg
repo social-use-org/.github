@@ -1,101 +1,62 @@
-<svg width="1600" height="640" viewBox="0 0 1600 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Social-use product showcase">
-  <defs>
-    <linearGradient id="bg" x1="120" y1="62" x2="1478" y2="582" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#07101C"/>
-      <stop offset="1" stop-color="#112A4A"/>
-    </linearGradient>
-    <linearGradient id="card1" x1="184" y1="170" x2="468" y2="430" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#14315A"/>
-      <stop offset="1" stop-color="#0C1A31"/>
-    </linearGradient>
-    <linearGradient id="card2" x1="652" y1="170" x2="936" y2="430" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#123A28"/>
-      <stop offset="1" stop-color="#081713"/>
-    </linearGradient>
-    <linearGradient id="card3" x1="1120" y1="170" x2="1404" y2="430" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#311C20"/>
-      <stop offset="1" stop-color="#160D11"/>
-    </linearGradient>
-    <linearGradient id="accentA" x1="184" y1="190" x2="468" y2="430" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#60A5FA"/>
-      <stop offset="1" stop-color="#34D399"/>
-    </linearGradient>
-    <linearGradient id="accentB" x1="652" y1="190" x2="936" y2="430" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#34D399"/>
-      <stop offset="1" stop-color="#A7F3D0"/>
-    </linearGradient>
-    <linearGradient id="accentC" x1="1120" y1="190" x2="1404" y2="430" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F59E0B"/>
-      <stop offset="1" stop-color="#FB7185"/>
-    </linearGradient>
-    <filter id="soft" x="0" y="0" width="1600" height="640" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="18" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0.05 0 1 0 0 0.08 0 0 1 0 0.15 0 0 0 0.22 0"/>
-    </filter>
-  </defs>
+<svg width="1600" height="620" viewBox="0 0 1600 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Social-use capability map">
+  <rect x="1" y="1" width="1598" height="618" rx="28" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+  <text x="88" y="76" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800" fill="#0F172A">核心能力地图</text>
+  <text x="88" y="112" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="500" fill="#64748B">面向 MCN、品牌团队、电商增长和跨境社媒运营的完整能力闭环</text>
 
-  <rect width="1600" height="640" rx="34" fill="url(#bg)"/>
-  <circle cx="210" cy="128" r="92" fill="#60A5FA" fill-opacity="0.12"/>
-  <circle cx="1392" cy="112" r="110" fill="#34D399" fill-opacity="0.10"/>
-  <circle cx="1344" cy="520" r="150" fill="#F59E0B" fill-opacity="0.06"/>
-  <ellipse cx="340" cy="520" rx="180" ry="42" fill="#60A5FA" fill-opacity="0.10"/>
-  <ellipse cx="800" cy="540" rx="230" ry="48" fill="#34D399" fill-opacity="0.08"/>
-  <ellipse cx="1260" cy="520" rx="190" ry="40" fill="#F59E0B" fill-opacity="0.08"/>
+  <rect x="88" y="164" width="320" height="150" rx="18" fill="#EFF6FF" stroke="#BFDBFE"/>
+  <circle cx="132" cy="210" r="22" fill="#2563EB"/>
+  <text x="132" y="216" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#FFFFFF">1</text>
+  <text x="172" y="202" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#1E3A8A">AI 内容生产</text>
+  <text x="172" y="234" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#475569">选题、标题、文案、脚本</text>
+  <text x="172" y="262" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#475569">图文、短视频、多语言复用</text>
 
-  <path d="M120 132C240 92 356 88 468 128" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="2"/>
-  <path d="M588 132C708 92 824 88 936 128" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="2"/>
-  <path d="M1056 132C1176 92 1292 88 1404 128" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="2"/>
+  <rect x="456" y="164" width="320" height="150" rx="18" fill="#F0FDF4" stroke="#BBF7D0"/>
+  <circle cx="500" cy="210" r="22" fill="#16A34A"/>
+  <text x="500" y="216" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#FFFFFF">2</text>
+  <text x="540" y="202" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#166534">多平台分发</text>
+  <text x="540" y="234" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#475569">小红书、抖音、X、YouTube</text>
+  <text x="540" y="262" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#475569">定时、批量、草稿和预览</text>
 
-  <g>
-    <rect x="140" y="154" width="320" height="320" rx="36" fill="url(#card1)" stroke="#FFFFFF" stroke-opacity="0.08"/>
-    <circle cx="220" cy="230" r="30" fill="#60A5FA"/>
-    <path d="M205 230H235" stroke="#08111F" stroke-width="4" stroke-linecap="round"/>
-    <path d="M220 215V245" stroke="#08111F" stroke-width="4" stroke-linecap="round"/>
-    <text x="286" y="220" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#E2E8F0">内容工坊</text>
-    <text x="286" y="252" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#94A3B8">一句话输入，自动生成内容</text>
-    <rect x="182" y="286" width="236" height="18" rx="9" fill="url(#accentA)"/>
-    <rect x="182" y="320" width="212" height="12" rx="6" fill="#E2E8F0" fill-opacity="0.90"/>
-    <rect x="182" y="344" width="186" height="12" rx="6" fill="#94A3B8" fill-opacity="0.78"/>
-    <rect x="182" y="368" width="166" height="12" rx="6" fill="#94A3B8" fill-opacity="0.58"/>
-    <rect x="182" y="404" width="126" height="36" rx="18" fill="#60A5FA"/>
-    <text x="245" y="427" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#08111F">生成文案</text>
-  </g>
+  <rect x="824" y="164" width="320" height="150" rx="18" fill="#FFF7ED" stroke="#FED7AA"/>
+  <circle cx="868" cy="210" r="22" fill="#F97316"/>
+  <text x="868" y="216" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#FFFFFF">3</text>
+  <text x="908" y="202" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#9A3412">账号矩阵</text>
+  <text x="908" y="234" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#475569">品牌号、达人号、垂类号</text>
+  <text x="908" y="262" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#475569">策略、频率、权限和审核</text>
 
-  <g>
-    <rect x="608" y="154" width="320" height="320" rx="36" fill="url(#card2)" stroke="#FFFFFF" stroke-opacity="0.08"/>
-    <circle cx="688" cy="230" r="30" fill="#34D399"/>
-    <path d="M672 230H704" stroke="#07111A" stroke-width="4" stroke-linecap="round"/>
-    <path d="M688 214V246" stroke="#07111A" stroke-width="4" stroke-linecap="round"/>
-    <text x="754" y="220" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#E2E8F0">分发中枢</text>
-    <text x="754" y="252" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#94A3B8">小红书、抖音、X 一次同步</text>
-    <rect x="650" y="286" width="236" height="18" rx="9" fill="url(#accentB)"/>
-    <rect x="650" y="320" width="220" height="12" rx="6" fill="#E2E8F0" fill-opacity="0.90"/>
-    <rect x="650" y="344" width="194" height="12" rx="6" fill="#94A3B8" fill-opacity="0.78"/>
-    <rect x="650" y="368" width="172" height="12" rx="6" fill="#94A3B8" fill-opacity="0.58"/>
-    <rect x="650" y="404" width="126" height="36" rx="18" fill="#34D399"/>
-    <text x="713" y="427" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#07111A">一键发布</text>
-  </g>
+  <rect x="1192" y="164" width="320" height="150" rx="18" fill="#FDF2F8" stroke="#FBCFE8"/>
+  <circle cx="1236" cy="210" r="22" fill="#DB2777"/>
+  <text x="1236" y="216" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#FFFFFF">4</text>
+  <text x="1276" y="202" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#9D174D">Agent 自动化</text>
+  <text x="1276" y="234" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#475569">MCP 工具、VNC 查看</text>
+  <text x="1276" y="262" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#475569">指纹设备、纯净 IP 环境</text>
 
-  <g>
-    <rect x="1076" y="154" width="320" height="320" rx="36" fill="url(#card3)" stroke="#FFFFFF" stroke-opacity="0.08"/>
-    <circle cx="1156" cy="230" r="30" fill="#F59E0B"/>
-    <path d="M1140 230H1172" stroke="#0D0A09" stroke-width="4" stroke-linecap="round"/>
-    <path d="M1156 214V246" stroke="#0D0A09" stroke-width="4" stroke-linecap="round"/>
-    <text x="1222" y="220" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#E2E8F0">Agent 控制台</text>
-    <text x="1222" y="252" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#94A3B8">像聊天一样执行运营任务</text>
-    <rect x="1118" y="286" width="236" height="18" rx="9" fill="url(#accentC)"/>
-    <rect x="1118" y="320" width="216" height="12" rx="6" fill="#E2E8F0" fill-opacity="0.90"/>
-    <rect x="1118" y="344" width="190" height="12" rx="6" fill="#94A3B8" fill-opacity="0.78"/>
-    <rect x="1118" y="368" width="170" height="12" rx="6" fill="#94A3B8" fill-opacity="0.58"/>
-    <rect x="1118" y="404" width="126" height="36" rx="18" fill="#F59E0B"/>
-    <text x="1181" y="427" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#0D0A09">开始执行</text>
-  </g>
+  <rect x="272" y="374" width="320" height="150" rx="18" fill="#ECFEFF" stroke="#A5F3FC"/>
+  <circle cx="316" cy="420" r="22" fill="#0891B2"/>
+  <text x="316" y="426" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#FFFFFF">5</text>
+  <text x="356" y="412" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#155E75">互动运营</text>
+  <text x="356" y="444" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#475569">评论、私信、用户标签</text>
+  <text x="356" y="472" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#475569">客服跟进和私域转化</text>
 
-  <g filter="url(#soft)">
-    <path d="M468 338C560 288 620 286 696 314" stroke="#60A5FA" stroke-width="6" stroke-linecap="round"/>
-    <path d="M934 338C1018 286 1088 286 1164 314" stroke="#34D399" stroke-width="6" stroke-linecap="round"/>
-  </g>
+  <rect x="640" y="374" width="320" height="150" rx="18" fill="#F5F3FF" stroke="#DDD6FE"/>
+  <circle cx="684" cy="420" r="22" fill="#7C3AED"/>
+  <text x="684" y="426" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#FFFFFF">6</text>
+  <text x="724" y="412" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#5B21B6">数据分析</text>
+  <text x="724" y="444" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#475569">内容表现、平台对比</text>
+  <text x="724" y="472" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#475569">标题效果和增长建议</text>
 
-  <text x="800" y="570" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#F8FAFC">内容、分发、运营，三块拼成一个闭环</text>
-  <text x="800" y="602" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#94A3B8">插画化表达比产品截图更直观，也更适合 GitHub 组织页的快速浏览。</text>
+  <rect x="1008" y="374" width="320" height="150" rx="18" fill="#F8FAFC" stroke="#CBD5E1"/>
+  <circle cx="1052" cy="420" r="22" fill="#334155"/>
+  <text x="1052" y="426" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#FFFFFF">7</text>
+  <text x="1092" y="412" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#0F172A">团队协作</text>
+  <text x="1092" y="444" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#475569">角色权限、审核中心</text>
+  <text x="1092" y="472" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" fill="#475569">适合 MCN 和代运营团队</text>
+
+  <path d="M408 239H456" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round"/>
+  <path d="M776 239H824" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1144 239H1192" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round"/>
+  <path d="M592 449H640" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round"/>
+  <path d="M960 449H1008" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round"/>
+
+  <text x="800" y="584" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#334155">内容生产、矩阵分发、Agent 自动化、互动增长和数据优化，组合成社媒运营闭环。</text>
 </svg>
