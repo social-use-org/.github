@@ -1,15 +1,7 @@
 # Social-use
 
 <p align="center">
-  <img src="./banner.svg" alt="Social-use banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./showcase.svg" alt="Social-use product showcase" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./flow.svg" alt="Social-use workflow illustration" width="100%" />
+  <img src="./strip.svg" alt="Social-use banner" width="100%" />
 </p>
 
 > Social-use 是一个面向创作者、品牌、团队和内容机构的 AI 社交媒体运营平台。
@@ -95,6 +87,16 @@ Social-use 覆盖的需求很集中，适合用户通过以下关键词找到你
 - 更完整的审核与风控能力
 - 更深的增长和转化链路
 - 面向团队协作的运营中台
+
+## 产品示意
+
+<p align="center">
+  <img src="./showcase.svg" alt="Social-use product showcase" width="92%" />
+</p>
+
+<p align="center">
+  <img src="./flow.svg" alt="Social-use workflow illustration" width="92%" />
+</p>
 
 ## 品牌表达
 

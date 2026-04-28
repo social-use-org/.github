@@ -1,15 +1,7 @@
 # Social-use
 
 <p align="center">
-  <img src="./banner.svg" alt="Social-use banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./showcase.svg" alt="Social-use product showcase" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./flow.svg" alt="Social-use workflow illustration" width="100%" />
+  <img src="./strip.svg" alt="Social-use banner" width="100%" />
 </p>
 
 > Social-use is an AI social media operating platform for creators, brands, and teams.
@@ -80,6 +72,16 @@ Social-use targets a tightly defined set of use cases and keywords:
 - Stronger review and risk controls
 - Deeper growth and conversion loops
 - A better operating layer for teams
+
+## Product visuals
+
+<p align="center">
+  <img src="./showcase.svg" alt="Social-use product showcase" width="92%" />
+</p>
+
+<p align="center">
+  <img src="./flow.svg" alt="Social-use workflow illustration" width="92%" />
+</p>
 
 ## Brand message
 
